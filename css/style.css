@@ -204,6 +204,7 @@ body {
   height: auto;
   background: none;
   background-color: #001219;
+
 }
 
 .header_section .container {
@@ -724,7 +725,7 @@ a:focus {
 /* Menu Section */
 
 #restaurant-menu {
-  margin-top: -100px;
+  margin-top: -50px;
 	padding: 100px 0 60px 0;
 }
 #restaurant-menu .menu-img {
